@@ -1,7 +1,5 @@
 <?php
 
-// User class remains the same
-
 require_once 'Modele/User.php';
 require_once 'Vue/Vue.php';
 
